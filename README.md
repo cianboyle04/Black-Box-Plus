@@ -14,3 +14,13 @@ based on correctly guessed atoms and fewer number of rays sent into the board
 Not specified in our original project brief, but our game also features a single player game mode in which you can play against a bot. This bot has the ability to place atoms for the user to guess
 when the user is given the Experimenter role but it will also complete a full game, requesting the user to place 6 atoms in which the bot will then attempt to guess. Single player comes in 3 different
 difficulties but each come with a certain level of randomness to ensure of a human like game.
+
+![Homescreen](HOMESCREEN.png)
+
+![Blank board](BLANK_BOARD.png)
+
+![Placing Atoms](PLACED_ATOMS.png)
+
+![Guessing on Board](GUESSING.png)
+
+![Full Game picture](END_BOARD.png)
